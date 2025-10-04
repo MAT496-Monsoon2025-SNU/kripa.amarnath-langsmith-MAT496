@@ -7,7 +7,7 @@ The contents in Module 1 are:-
 -Conversational threads
 A python file named utlis.py is used in assisting in the execution of all these processes.
 
-The coontents in Module 2 are:-
+The contents in Module 2 are:-
 -Datasets
 -Evaluators
 -Experiments
